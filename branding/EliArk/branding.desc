@@ -1,0 +1,25 @@
+---
+componentName:  EliArk
+
+strings:
+    productName:         EliArk
+    shortProductName:    EliArk
+    version:             1.0.1
+    shortVersion:        1.0.1
+    versionedName:       EliArk
+    shortVersionedName:  EliArk
+    bootloaderEntryName: EliArk
+
+images:
+    productLogo:         "squid.png"
+    productIcon:         "squid.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+
+style:
+   sidebarBackground:    "#353945"
+   sidebarText:          "#ECEDEE"
+   sidebarTextSelect:    "#353945"
+
